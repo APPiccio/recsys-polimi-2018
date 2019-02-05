@@ -11,4 +11,4 @@ The objective of the competition was to create the best recommeder system for a 
 * Federico Piccinini ([APPiccio](https://github.com/APPiccio))
 * Daniele Montesi ([danmontesi](https://github.com/danmontesi))
 
-## For further details look at the [presentation](https://github.com/APPiccio/recsys-polimi-2018/presentation.pdf)
+## For further details look at the [presentation](https://github.com/APPiccio/recsys-polimi-2018/blob/master/presentation.pdf)
